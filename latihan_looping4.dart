@@ -28,9 +28,16 @@ void main() {
   ];
 
   print("---------");
+  print("Soal 1:");
   print(products); //TODO: tampilkan harga GG Filter
+  print("\n---------");
+  print("Soal 2:");
   print(products); //TODO: tampilkan harga Sabun Citra
+  print("\n---------");
+  print("Soal 3:");
   print(products); //TODO: tampilkan nama produk item index 4
+  print("\n---------");
+  print("Soal 4:");
   print(products); //TODO: tampilkan nama produk item index 3
   print("---------");
 }
