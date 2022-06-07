@@ -8,5 +8,5 @@ void main() {
   ];
 
   //TODO: tampilkan Sabun Citra
-  print(products);
+  print(products[2]);
 }

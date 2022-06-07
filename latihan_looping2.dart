@@ -23,5 +23,5 @@ void main() {
   ];
 
   //TODO: tampilkan harga dari GG Filter
-  print(products);
+  print(products[3]["price"]);
 }

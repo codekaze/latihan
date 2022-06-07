@@ -28,5 +28,8 @@ void main() {
   ];
 
   //TODO: tampilkan total dari Pepsodent
-  print(products);
+  var qty = 13;
+  var price = 9500;
+  var total = qty * price;
+  print("Total pembelian $total");
 }
